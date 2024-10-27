@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+nav a:hover {
+  color: #0056b3;
+}
